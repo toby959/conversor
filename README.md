@@ -31,7 +31,7 @@ ___
 1 - Clona el repositorio en tu maquina local
 ``` bash
 git clone
-<https://github.com/toby959/conversor-toby959.git>
+<https://github.com/toby959/conversor.git>
 ```
 2 - Abre tu IDE, debes tener en cuenta, que los ANSI Escape Codes son secuencias de control que no se clasifican como métodos o funciones, sino como instrucciones que los terminales interpretan para modificar la presentación del texto y puede que en tu IDE, no funcione.  
 3 - Compila y ejecuta el archivo Main.java.

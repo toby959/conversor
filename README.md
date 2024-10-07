@@ -64,15 +64,15 @@ Gracias por tu interés en contribuir a este proyecto. ¡Esperamos tus aportes!
 ___
 ## Imagenes 📸
 
-![Texto alternativo](URL_de_la_imagen)
+![Imagen Consola](imagen_1.png)
 
-![Texto alternativo](URL_de_la_imagen)
+![Imagen Consola](imagen_2.png)
 
-![Texto alternativo](URL_de_la_imagen)
+![Imagen Consola](imagen_3.png)
 
-![Texto alternativo](URL_de_la_imagen)
+![Imagen Consola](imagen_4.png)
 
-![Texto alternativo](URL_de_la_imagen)
+![Imagen Pagina para obtener clave del Conversor](imagen_5.png)
 #### Ten en cuenta que la clave gratuita, tiene una duración de 14 días, luego expira.
 
 ## Licencia 📜

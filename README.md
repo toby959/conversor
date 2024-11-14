@@ -75,6 +75,8 @@ ___
 ![Imagen Pagina para obtener clave del Conversor](imagen_5.png)
 #### Ten en cuenta que la clave gratuita, tiene una duración de 14 días, luego expira.
 
+![Imagen Consola](Badge-Conversor(1).png)
+
 ## Licencia 📜
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/toby959/conversor/blob/main/LICENSE) para más detalles.

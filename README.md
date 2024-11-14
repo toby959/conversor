@@ -31,7 +31,7 @@ ___
 1 - Clona el repositorio en tu maquina local
 ``` bash
 git clone
-<https://github.com/toby959/conversor-toby959.git>
+<https://github.com/toby959/conversor.git>
 ```
 2 - Abre tu IDE, debes tener en cuenta, que los ANSI Escape Codes son secuencias de control que no se clasifican como métodos o funciones, sino como instrucciones que los terminales interpretan para modificar la presentación del texto y puede que en tu IDE, no funcione.  
 3 - Compila y ejecuta el archivo Main.java.
@@ -64,16 +64,18 @@ Gracias por tu interés en contribuir a este proyecto. ¡Esperamos tus aportes!
 ___
 ## Imagenes 📸
 
-![Texto alternativo](URL_de_la_imagen)
+![Imagen Consola](imagen_1.png)
 
-![Texto alternativo](URL_de_la_imagen)
+![Imagen Consola](imagen_2.png)
 
-![Texto alternativo](URL_de_la_imagen)
+![Imagen Consola](imagen_3.png)
 
-![Texto alternativo](URL_de_la_imagen)
+![Imagen Consola](imagen_4.png)
 
-![Texto alternativo](URL_de_la_imagen)
+![Imagen Pagina para obtener clave del Conversor](imagen_5.png)
 #### Ten en cuenta que la clave gratuita, tiene una duración de 14 días, luego expira.
+
+![Imagen Badge](./Badge-Conversor(1).png)
 
 ## Licencia 📜
 

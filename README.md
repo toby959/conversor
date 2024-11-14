@@ -75,7 +75,7 @@ ___
 ![Imagen Pagina para obtener clave del Conversor](imagen_5.png)
 #### Ten en cuenta que la clave gratuita, tiene una duración de 14 días, luego expira.
 
-![Imagen Badge](./Badge-Conversor(1).png)
+![Imagen Badge](Badge-Conversor.png)
 
 ## Licencia 📜
 
